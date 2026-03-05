@@ -58,7 +58,6 @@ Meu objetivo é criar experiências digitais intuitivas e esteticamente agradáv
 
 - LinkedIn: [Gustavo Augusto Silva](https://www.linkedin.com/in/gustavo-augusto-garcia/)  
 - E-mail: gustavoags2000@gmail.com
-- GitHub: [github.com/gustavoagsilva]github.com/gustavoagsilva)  
 
 ---
 
