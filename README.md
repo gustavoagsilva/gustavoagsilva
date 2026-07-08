@@ -22,7 +22,7 @@ Me chamo Gustavo Augusto, tenho 25 anos e sou natural de São Paulo. Atualmente,
 > Todos os projetos são **educacionais**, com foco em **front-end e boas práticas de código**.
 
 ---
- Linguagens e Tecnologias
+ Linguagens 
 
   <img
     align="left"
@@ -71,6 +71,7 @@ Me chamo Gustavo Augusto, tenho 25 anos e sou natural de São Paulo. Atualmente,
 
  <br/>
  <br/>
+
 ---
 
 ## 📊 GitHub Stats
